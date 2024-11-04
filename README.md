@@ -1,2 +1,3 @@
 # git_test
 Hello Odin! I am a noob...
+I am now learning at The Odin Project!
