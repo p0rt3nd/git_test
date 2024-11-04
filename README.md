@@ -1,2 +1,2 @@
 # git_test
-Add "Hello Odin!"
+Hello Odin! I am a noob...

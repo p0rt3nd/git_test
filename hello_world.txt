@@ -1,1 +1,2 @@
 This is my first test word message!.
+I am a noob and I am learning to program on The Odin Project.
